@@ -1,4 +1,4 @@
-# Shizuku
+# Shizuku free
 
 ## Background
 
